@@ -1,0 +1,1 @@
+# primo (com função)
